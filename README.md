@@ -9,6 +9,12 @@ La API resuelve los siguientes casos de uso:
 2. El sistema valida que la mesa no esté ocupada en el mismo bloque de fecha y hora antes de confirmar.
 3. Los administradores pueden ver todas las reservaciones, cambiar su estado y gestionar el catálogo de mesas.
 
+> ### ⚙️ Requerimientos
+> 
+> **Base de datos postgres:**
+> Usar el archivo **.sql** adjunto.
+
+
 # 🔑 Autenticación — /api/auth
 
 | Método | Endpoint | Descripción | Acceso |
