@@ -1,6 +1,6 @@
 # API REST con autenticación JWT, encriptación bcrypt, roles y permisos.
 
-# 📝 Descripción de la actividad
+# 📝 Descripción
 Un restaurante necesita un sistema digital para que sus clientes hagan reservaciones de mesas en línea, y para que el personal administrador gestione el estado de cada reserva.
 
 La API resuelve los siguientes casos de uso:
@@ -12,7 +12,7 @@ La API resuelve los siguientes casos de uso:
 > ### ⚙️ Requerimientos
 > 
 > **Base de datos postgres:**
-> Usar el archivo **.sql** adjunto.
+> Crear la base de datos **bdrestaurante** en postgres, y luego, ejecutar el archivo adjunto **.sql** que se encuentra en la carpeta **database** del repositorio.
 
 
 # 🔑 Autenticación — /api/auth
