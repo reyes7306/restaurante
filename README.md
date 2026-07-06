@@ -16,7 +16,10 @@ La API resuelve los siguientes casos de uso:
 > Crear la base de datos **bdrestaurante** en postgres, y luego, ejecutar el archivo adjunto **.sql** que se encuentra en la carpeta **database** del repositorio.<br>
 > **Postman, Insomnia u otra aplicación para depurar la API**<br>
 
+> ### 🤬 Advertencia
+> Por seguridad ante problemas de hackeo en **npm** se trabajo mejor con **pnpm** tomelo en cuenta para hacer pruebas de la API.
 
+<br>
 
 # 🔑 Autenticación — /api/auth
 
